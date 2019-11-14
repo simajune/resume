@@ -89,7 +89,7 @@
 * 홈페이지 : https://www.sweettracker.co.kr
 * 앱스토어 : https://itunes.apple.com/kr/app/podcast/id523045854
 
-<img src="images/smartparcel/smartparcel01.png" height="315"/> <img src="images/smartparcel/smartparcel02.png" height="315"/> <img src="images/smartparcel/smartparcel03.png" height="315"/> <img src="images/smartparcel/smartparcel04.png" height="315"/> <img src="images/smartparcel/smartparcel05.png" height="315"/>
+<img src="images/smartparcel/smartparcel01.jpg" height="315"/> <img src="images/smartparcel/smartparcel02.jpg" height="315"/> <img src="images/smartparcel/smartparcel03.jpg" height="315"/> <img src="images/smartparcel/smartparcel04.jpg" height="315"/> <img src="images/smartparcel/smartparcel05.jpg" height="315"/>
 
 <br/>
 
@@ -103,7 +103,7 @@
   * 홈픽 신규 구현
   * 신규 기능 개발
 
-<img src="images/homepick/homepick01.png" height="315"/> <img src="images/homepick/homepick02.jpg" height="315"/> <img src="images/homepick/homepick03.jpg" height="240"/> <img src="images/homepick/homepick04.png" height="240"/>
+<img src="images/homepick/homepick01.jpg" height="315"/> <img src="images/homepick/homepick02.jpg" height="315"/> <img src="images/homepick/homepick03.jpg" height="315"/> <img src="images/homepick/homepick04.jpg" height="315"/><img src="images/homepick/homepick05.jpg" height="315"/><img src="images/homepick/homepick06.jpg" height="315"/><img src="images/homepick/homepick07.jpg" height="315"/><img src="images/homepick/homepick08.jpg" height="315"/><img src="images/homepick/homepick09.jpg" height="315"/><img src="images/homepick/homepick10.jpg" height="315"/>
 
 <br/>
 
@@ -123,7 +123,7 @@
 
 * 개발 기술 : Swift, Coredata, Firebase
 
-<img src="images/weathust/weathust01.png" height="315"/> <img src="images/weathust/weathust02.png" height="315"/> <img src="images/weathust/weathust03.png" height="315"/><img src="images/weathust/weathust04.png" height="315"/><img src="images/weathust/weathust05.png" height="315"/>
+<img src="images/weathust/weathust01.png" height="315"/> <img src="images/weathust/weathust02.png" height="315"/> <img src="images/weathust/weathust03.png" height="315"/><img src="images/weathust/weathust04.png" height="315"/><img src="images/weathust/weathust05.png" height="315"/><img src="images/weathust/weathust06.png" height="315"/><img src="images/weathust/weathust07.png" height="315"/>
 
 <br/>
 
@@ -152,7 +152,7 @@
   * iOS 리펙토링 및 신 버전 작업
   * 서비스 기획 참여
 
-<img src="images/foopls/foopls01.jpg" height="315"/> <img src="images/foopls/foopls02.jpg" height="315"/> <img src="images/foopls/foopls03.jpg" height="315"/><img src="images/foopls/foopls04.jpg" height="315"/><img src="images/foopls/foopls05.jpg" height="315"/><img src="images/foopls/foopls06.jpg" height="315"/><img src="images/foopls/foopls07.jpg" height="315"/><img src="images/foopls/foopls08.jpg" height="315"/>
+<img src="images/foopls/foopls01.png" height="315"/> <img src="images/foopls/foopls02.png" height="315"/> <img src="images/foopls/foopls03.png" height="315"/><img src="images/foopls/foopls04.png" height="315"/><img src="images/foopls/foopls05.png" height="315"/><img src="images/foopls/foopls06.png" height="315"/><img src="images/foopls/foopls07.png" height="315"/><img src="images/foopls/foopls08.png" height="315"/>
 
 <br/>
 
