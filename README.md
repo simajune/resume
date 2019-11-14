@@ -59,21 +59,22 @@
 
 **캐시닥**
 
-> 금융
+> 금융 앱으로 신규 개발 단계부터 투입되어 개발을 한 프로젝트입니다. 아키텍처는 Clean architecture를 사용했고 로그인과 회원가입 기능을 구현 했고 계좌조회와 카드승인 내역을 통해 가계부리스트를 만들고 중복된 리스트는 제거하는 기능과 캐시 적립하는 기능, 그리고 가계부를 조회할 때 나오는 슬롯 머신의 기능을 구현했습니다.
 
 * 회사 : Cashwalk,inc
-* 개발 기술
-  * 인프라 : 전체 인프라를 AWS 싱가폴 리전에 구성
-  * 백엔드 : Kotlin, Spring Boot 2.1.x, Spring Security, JPA(Hibernate), Gradle, Redis, Sentry
-  * 프론트엔드 : Thymeleaf, jQuery, Less, Lodash
+
+* 개발 기술 : Swift, RxSwift, Realm, Firebase, Fastlane
+
 * 담당 업무
-  * AWS 기반 인프라 구성
-  * 웹사이트 구현 및 모바일 앱을 위한 Rest API 구현
-  * 관리자 페이지 구현
-  * 다국어 처리
+
+  * 회원 가입 로그인 구현
+  * 가계부 내역 스크래핑 및 카테고리 변경 기능 구현
+  * 슬롯 머신 기능 구현
+  * 더보기 탭 구현
+
 * 홈페이지 : https://cashdoc.me
 
-<img src="images/KONGKONG/1.png" height="315"/> <img src="images/KONGKONG/2.png" height="315"/> <img src="images/KONGKONG/3.png" height="315"/>
+   <img src="images/cashdoc/cashdoc01.jpg" height="400"/> <img src="images/cashdoc/cashdoc02.jpg" height="400"/><img src="images/cashdoc/cashdoc03.jpg" height="400"/><img src="images/cashdoc/cashdoc04.jpg" height="400"/><img src="images/cashdoc/cashdoc05.jpg" height="400"/><img src="images/cashdoc/cashdoc06.jpg" height="400"/>
 
 <br/>
 
