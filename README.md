@@ -8,17 +8,13 @@
 
 * Email: tejayjung@gmail.com
 * Github: [github.com/simajune](https://github.com/simajune)
-* Blog: [https://https://simajune.github.io](https://https://simajune.github.io)
+* Blog: [https://simajune.github.io](https://simajune.github.io)
 
 <br/>
 
 ## 목차
 * [경력](#경력)
 * [프로젝트](#프로젝트)
-* [기타 프로젝트](#기타-프로젝트)
-  * [프로젝트](#프로젝트-1)
-  * [오픈소스](#오픈소스)
-  * [오픈소스 기여](#오픈소스-기여)
 
 <br/>
 
@@ -74,6 +70,8 @@
 
 * 홈페이지 : https://cashdoc.me
 
+* 앱스토어 : https://apps.apple.com/app/id1483471584
+
    <img src="images/cashdoc/cashdoc01.jpg" height="400"/> <img src="images/cashdoc/cashdoc02.jpg" height="400"/><img src="images/cashdoc/cashdoc03.jpg" height="400"/><img src="images/cashdoc/cashdoc04.jpg" height="400"/><img src="images/cashdoc/cashdoc05.jpg" height="400"/><img src="images/cashdoc/cashdoc06.jpg" height="400"/>
 
 <br/>
@@ -86,8 +84,7 @@
 * 개발 기술 : Objective-C, Swift, RxSwift, CoreData
 * 담당 업무
   * 스윗트래커 신규 기능 개발 및 유지보수
-  * 
-* 홈페이지 : https://www.sweettracker.co.kr
+* 홈페이지 : http://www.sweettracker.co.kr/
 * 앱스토어 : https://itunes.apple.com/kr/app/podcast/id523045854
 
 <img src="images/smartparcel/smartparcel01.jpg" height="315"/> <img src="images/smartparcel/smartparcel02.jpg" height="315"/> <img src="images/smartparcel/smartparcel03.jpg" height="315"/> <img src="images/smartparcel/smartparcel04.jpg" height="315"/> <img src="images/smartparcel/smartparcel05.jpg" height="315"/>
@@ -103,6 +100,7 @@
 * 담당 업무
   * 홈픽 신규 구현
   * 신규 기능 개발
+* 앱스토어 : https://goo.gl/LkPW6S
 
 <img src="images/homepick/homepick01.jpg" height="315"/> <img src="images/homepick/homepick02.jpg" height="315"/> <img src="images/homepick/homepick03.jpg" height="315"/> <img src="images/homepick/homepick04.jpg" height="315"/><img src="images/homepick/homepick05.jpg" height="315"/><img src="images/homepick/homepick06.jpg" height="315"/><img src="images/homepick/homepick07.jpg" height="315"/><img src="images/homepick/homepick08.jpg" height="315"/><img src="images/homepick/homepick09.jpg" height="315"/><img src="images/homepick/homepick10.jpg" height="315"/>
 
@@ -123,6 +121,7 @@
 
 
 * 개발 기술 : Swift, Coredata, Firebase
+* 앱스토어 : https://goo.gl/bxKF4v
 
 <img src="images/weathust/weathust01.png" height="315"/> <img src="images/weathust/weathust02.png" height="315"/> <img src="images/weathust/weathust03.png" height="315"/><img src="images/weathust/weathust04.png" height="315"/><img src="images/weathust/weathust05.png" height="315"/><img src="images/weathust/weathust06.png" height="315"/><img src="images/weathust/weathust07.png" height="315"/>
 
@@ -150,8 +149,12 @@
 
 * 개발 기술 : Swift, Firebase
 * 담당 업무
-  * iOS 리펙토링 및 신 버전 작업
-  * 서비스 기획 참여
+  * 프로젝트 기획 및 디자인
+  * 회원가입 및 로그인 구현
+  * 메인 화면 구현
+  * 캘린더 구현
+  * 계정 정보 구현
+  * firebase 구현
 
 <img src="images/foopls/foopls01.png" height="315"/> <img src="images/foopls/foopls02.png" height="315"/> <img src="images/foopls/foopls03.png" height="315"/><img src="images/foopls/foopls04.png" height="315"/><img src="images/foopls/foopls05.png" height="315"/><img src="images/foopls/foopls06.png" height="315"/><img src="images/foopls/foopls07.png" height="315"/><img src="images/foopls/foopls08.png" height="315"/>
 
